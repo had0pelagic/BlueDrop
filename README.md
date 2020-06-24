@@ -5,15 +5,15 @@
 
 ## General
 
-### Main app:
+#### Main app:
 ![alt text](https://github.com/had0pelagic/BlueDrop/blob/master/AndroidStudio/showimg.jpg?raw=true)
 
-### About button:
+#### About button:
+Shows information about the app and how to use it
 ![alt text](https://github.com/had0pelagic/BlueDrop/blob/master/AndroidStudio/indication.jpg?raw=true)
 
-### Settings to set custom goal or reset progress:
+#### Settings to set custom goal or reset progress:
 ![alt text](https://github.com/had0pelagic/BlueDrop/blob/master/AndroidStudio/settings.jpg?raw=true)
 ![alt text](https://github.com/had0pelagic/BlueDrop/blob/master/AndroidStudio/customgoal.jpg?raw=true)
 
-
-Not compiled, should be used in Android Studio.
+* Not compiled, should be used in Android Studio.
