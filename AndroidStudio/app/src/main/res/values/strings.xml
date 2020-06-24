@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BlueDrop</string>
+    <string name="button_text250">+</string>
+    <string name="button_text500"></string>
+    <string name="set_goal">menu</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="set_custom_goal">Set custom goal</string>
+    <string name="reset_progress">Reset current progress</string>
+    <string name="about">⦿This app was created to track daily water intake.\n⦿After drinking, press the button with a number on it multiple times or select custom amount and press it for example (250 adds 250ml, 500 adds 500ml).\n⦿Progress resets everyday.\n⦿This app has a reminder, that reminds you to drink every hour.</string>
+    <string name="hint">Enter custom goal in ml</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
