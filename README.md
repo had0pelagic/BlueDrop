@@ -1,6 +1,6 @@
 # BlueDrop
 * Android app that tracks water intake.
-* Created in Android Studio, Java.
+* Made with Android Studio, Java.
 * Mainly configured for API 28, tested on Pixel 2.
 
 ## General
